@@ -1,3 +1,7 @@
+# <p align="center"> 👋 Hi there! I'm Gizem</p>
+
+Welcome to my profile! I'm Gizem Efe, a passionate software engineer on a journey to learn and grow in the world of technology. Feel free to explore my work and connect with me!
+
 # 💫 About Me:
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Computer Science at the University of Düzce<br>💭 Currently learning about C# and Machine Learning!
 
