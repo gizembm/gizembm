@@ -54,4 +54,4 @@
 <p><img align="center" src="https://streak-stats.demolab.com?user=gizembm&theme=radical" alt="streak-stats" /></p>
 
 
-![GitHub Snake](https://raw.githubusercontent.com/gizembm/gizembm/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/gizembm/gizembm/blob/output/github-snake-dark.svg)
