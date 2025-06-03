@@ -54,10 +54,4 @@
 <p><img align="center" src="https://streak-stats.demolab.com?user=gizembm&theme=radical" alt="streak-stats" /></p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gizembm/gizembm/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e2a84,100:321450&height=120&section=footer" />
-</p>
+![GitHub Snake](https://raw.githubusercontent.com/gizembm/gizembm/output/github-contribution-grid-snake.svg)
