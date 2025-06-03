@@ -52,3 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gizembm&show_icons=true&locale=en&theme=radical" alt="github-stats" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=gizembm&theme=radical" alt="streak-stats" /></p>
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
