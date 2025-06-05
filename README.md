@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/gizembm/gizembm/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/gizembm/gizembm/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
 </p>
