@@ -14,7 +14,9 @@
   <a href="https://medium.com/@efegizem562">✍️ Medium</a>
 </p>
 
+<!--
 <img src="https://komarev.com/ghpvc/?username=gizembm&label=Profile%20Views&color=0e75b6&style=flat"/>
+-->
 
 </div>
 
